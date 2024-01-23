@@ -6,6 +6,6 @@ This repository contains the code for the first assignment in the Data Science A
 
 ## Assignment Details
 
-- **Assignment Title:**  Into to - Assignment 1
+- **Assignment Title:**  Intro to Python - Assignment 1
 - **Class:** [Data Science Analytics]
 - **Date:** [10.2023]
